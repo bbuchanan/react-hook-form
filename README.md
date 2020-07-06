@@ -1,2 +1,2 @@
 # react-hook-form
-Created with CodeSandbox
+Simple application to demonstrate how to use react-hook-form with material-ui and yup validation.
